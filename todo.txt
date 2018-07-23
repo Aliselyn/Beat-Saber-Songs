@@ -1,0 +1,4 @@
+Test2:
+	Remove obstacles
+	Fix timing after removal
+	
